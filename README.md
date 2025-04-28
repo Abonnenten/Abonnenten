@@ -12,8 +12,8 @@
 [<img align="left" alt="Dunderkonung | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Dunderkonung | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-[instagram]: https://www.instagram.com/dunderkonung/
-[linkedin]: https://linkedin.com/in/samuethalin
+[instagram]: https://www.instagram.com/dunder_konung/
+[linkedin]: https://linkedin.com/in/samuethalin/
 
 <!--
 **Abonnenten/Abonnenten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
