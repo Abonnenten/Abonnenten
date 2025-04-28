@@ -1,9 +1,9 @@
 <h1>Hello & Hej, I'm Samuel! <a href="https://www.linkedin.com/in/joshmadakor/"> Cybersecurity & IT-Professional</a>
 
-<h2>👨‍💻 My IT :</h2>
+<h2>👨‍💻 My IT Journey:</h2>
 
 - <b>Title 3</b>
-  - [Title 4](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Lab](https://github.com/Abonnenten/ActiveDirectoryLab)
 
 <h2>📺 Title 2</h2>
 
