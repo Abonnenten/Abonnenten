@@ -6,7 +6,7 @@
   - [Active Directory Lab](https://github.com/Abonnenten/ActiveDirectoryLab)
 
 <h2>📺 Title 2</h2>
-
+Other stuff, videos, links, whatever
 <h2> 🤳 Connect with me:</h2>
 
 [<img align="left" alt="Samuelthalin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
