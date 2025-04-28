@@ -9,7 +9,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="Samuelthalin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Samuelthalin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/samuelthalin/]
 [<img align="left" alt="Dunderkonung | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 [instagram]: https://www.instagram.com/dunder_konung/
